@@ -21,7 +21,7 @@ Peaks per Nationality:
 After understanding how the data is spread through the decades, I was interested in finding out more about _where_ they originated. The line graph I created shows the spread of each nation's artwork over time. We can see all of the individual peaks in each of the lines.
 
 Department Acquisition Date:
-I was curious about the development of the MOMA. This visualization allows us to see when each department began to get more popular as the museum started acquiring more art. By filtering through specific departments, we can see where the growth occurs. As expected, we can see that Media and Performance along with Film became popular in the early 2000s. 
+I was curious about the development of the MOMA. This visualization allows us to see when each department began to get more popular as the museum started acquiring more art. By filtering through specific departments, we can see where the growth occurs. As expected, we can see that Media and Performance along with Film became popular in the early 2000s. Meanwhile, Architecture had peaks in the 40s, 70s, and early 2000s.
 
 > **Conclusion**
 
